@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gunel 
 
-<!--
-**coeptume/coeptume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on responsive UI and ecommerce interfaces.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- Vue 2
+- Vue 3
+- React
+- Pinia
+- Vuex
+- HTML
+- SCSS
+- Git
+
+## Vue UI Libraries
+
+- Quasar (+ Cordova)
+- Vuetify
+- PrimeVue
+- Nuxt UI
+
+## Currently
+
+- Building pet projects
+- Improving frontend architecture skills
+
+## Projects
+
+- Building pet projects
+- Improving frontend architecture skills
