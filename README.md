@@ -26,8 +26,3 @@ Frontend Developer focused on responsive UI and ecommerce interfaces.
 
 - Building pet projects
 - Improving frontend architecture skills
-
-## Projects
-
-- Building pet projects
-- Improving frontend architecture skills
